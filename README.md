@@ -1,15 +1,13 @@
-<h1 alight="center">My Github Chill Place ❄️ </h1>
+<p alight="center">My Github Chill Place ❄️ </p>
 
 <br>
 
   <h5>
-Networking Stuff - Cybersecurity - Full stack Dev - Designer
+    Networking Stuff - Cybersecurity - Full stack Dev - Designer
   </h5>
 <br>
 <p>
-  <b>
-    I work with... 
-  </b>
+  <b>I work with... </b>
 </p>
 
 <p align="left">
