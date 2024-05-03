@@ -1,7 +1,7 @@
 #GithubChillSpot :wave:
 <br>
 
-  <h5 style="align: center;">
+  <h5 align="center">
     Networking Stuff - Cybersecurity - Full stack Dev - Designer
   </h5>
 <br>
