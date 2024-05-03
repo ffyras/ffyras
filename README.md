@@ -5,7 +5,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=flask,github,go,html,css,js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=kali,linux,mongodb,nodejs,php,raspberrypi,py,ps,ai,react,redhat" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,mongodb,nodejs,php,raspberrypi" />
     <br>
     <img src="https://skillicons.dev/icons?i=py,ps,ai,react,redhat,windows" />
   </a>
