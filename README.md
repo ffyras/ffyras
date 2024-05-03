@@ -1,5 +1,10 @@
-### Networking Stuff - Cybersecurity - Full stack Dev - Designer
+### My github chill place 
+<hr>
+<br>
 
+Networking Stuff - Cybersecurity - Full stack Dev - Designer
+
+<br>
 <p>
   <b>
     I work with... 
