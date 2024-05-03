@@ -1,5 +1,5 @@
-<h1 align="center">
-    Github Chill Spot
+<h1 align="center" color=#1A4480>
+    Github Chill Spot ❄️
   </h1>
 <br>
 
