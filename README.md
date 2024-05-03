@@ -24,6 +24,6 @@
 </p>
 
 <p align="center">
-  <b>Projects...</b>
-    <img src="https://img.freepik.com/premium-vector/coming-soon-clock-icon-new-open-vector-sign-timer-with-time-arrow-coming-soon-promotion-countdown-clock-symbol_186921-236.jpg" />
+  <b>Projects...</b><br>
+    Coming Soon.
 </p>
