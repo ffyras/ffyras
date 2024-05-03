@@ -3,7 +3,7 @@
 
 <br>
 
-  <h5>
+  <h5 style="text-align: center;">
     Networking Stuff - Cybersecurity - Full stack Dev - Designer
   </h5>
 <br>
