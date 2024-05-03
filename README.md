@@ -1,4 +1,4 @@
-<h1 style="text-alight:center;">My Github Chill Place ❄️ </h1>
+<h1 style="text-align: center;">My Github Chill Place ❄️ </h1>
 
 <br>
 
