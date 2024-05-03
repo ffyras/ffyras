@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red;">
+<h1 align="center">
     Github Chill Spot ❄️
   </h1>
 <br>
