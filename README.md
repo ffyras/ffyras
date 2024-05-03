@@ -7,11 +7,11 @@
     Networking Stuff - Cybersecurity - Full stack Dev - Designer
   </h5>
 <br>
-<p>
+<p align="center">
   <b>I work with... </b>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,codepen,debian,discord,django" />
     <br>
