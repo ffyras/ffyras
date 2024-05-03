@@ -1,5 +1,5 @@
 <h1 alight="center">My Github Chill Place ❄️ </h1>
-<hr>
+
 <br>
 
   <h5>
