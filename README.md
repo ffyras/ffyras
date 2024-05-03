@@ -1,4 +1,6 @@
-#GithubChillSpot :wave:
+<h1 align="center">
+    Github Chill Spot
+  </h1>
 <br>
 
   <h5 align="center">
