@@ -1,4 +1,11 @@
 ### Networking Stuff - Cybersecurity - Full stack Dev - Designer
+
+<p>
+  <b>
+    I work with... 
+  </b>
+</p>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,codepen,debian,discord,django" />
