@@ -1,5 +1,5 @@
 <h1 align="center">
-    Github Chill Spot ❄️
+    About me
   </h1>
 <br>
 
