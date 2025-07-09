@@ -4,7 +4,7 @@
 <br>
 
   <h5 align="center">
-    Networking Stuff - Cybersecurity - Full stack Dev - Designer
+    Networking - Cybersec - Dev
   </h5>
 <br>
 <p align="center">
