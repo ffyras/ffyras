@@ -2,8 +2,11 @@
     About me
   </h1>
 <br>
-
+<h5 align="center">
+    Computer Network Security Student 
+  </h5>
   <h5 align="center">
+<br>
     Networking - Cybersec - Dev
   </h5>
 <br>
