@@ -25,5 +25,5 @@
 
 <p align="center">
   <b>Projects...</b><br>
-    ###Stock Management interface for both Android and windows detected mainly to easing the restocking process done by Staff
+     Stock Management interface for both Android and windows detected mainly to easing the restocking process done by Staff
 </p>
