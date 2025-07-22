@@ -28,5 +28,5 @@
 
 <p align="center">
   <b>Projects...</b><br>
-     Stock Management interface dedicated mainly to easing the restocking process done by Staff.
+     * Stock Management interface dedicated mainly to easing the restocking process done by Staff.
 </p>
